@@ -10,7 +10,7 @@ This repository for python programming.
 - Add required files to be commmitted using command: `git add <file/folder name>`
 - Command to commit the changes to a branch : `git commit -m <commit message>`
 - command to push the changes : `git push origin <branch name>`
--command to pull the changes from github : `git pull origin <branch name>`
+- command to pull the changes from github : `git pull origin <branch name>`
 
 ## Requirements for python
 - install anaconda, use spyder for scriting
